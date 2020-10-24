@@ -16,10 +16,4 @@ Hit the below url in any browser installed on your system
 http://127.0.0.1:8000/ 
 
 =========================================================
-## Things to change in settings.py
-contact us will not work because you have to provide your gmail id and password
-change that in settings.py
-=======================================================================
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-# Library-store
+
